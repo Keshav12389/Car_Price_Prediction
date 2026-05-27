@@ -12,7 +12,7 @@ This project predicts the **resale price of used cars** in the Indian market usi
 
 The project covers the full data science pipeline — from raw data loading and EDA, through feature engineering and preprocessing, to model building and evaluation.
 
-**Dataset:** [Vehicle Dataset — Kaggle](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)  
+**Dataset:** [Vehicle Dataset](https://github.com/Keshav12389/Car_Price_Prediction/blob/main/car%20data.csv)  
 **Total Records:** 301 used car listings  
 **Tool Used:** Python, Jupyter Notebook  
 **Author:** Keshav Meena | IIT Delhi
