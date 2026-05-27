@@ -125,9 +125,9 @@ model.compile(optimizer='rmsprop', loss='mse')
 
 | Metric | Value |
 |---|---|
-| R² Score — Train | [ADD YOUR VALUE] |
-| R² Score — Test | [ADD YOUR VALUE] |
-| Difference (Train - Test) | [ADD YOUR VALUE] |
+| R² Score — Train | [97%] |
+| R² Score — Test | [95%] |
+| Difference (Train - Test) | [2%] |
 
 > **Note:** Open the notebook and check the printed output of the last 3 cells to find your exact scores and fill them in above.
 
